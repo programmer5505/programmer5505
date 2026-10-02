@@ -1,28 +1,121 @@
-# 💫 About Me:
-👨‍💻 Ayman Marsh<br><br>Software Engineer | IT Student | Developer | Graphic Designer<br><br>Hi! I'm Ayman Marsh, a software engineer and IT student passionate about software development, web technologies, application design, and creative digital solutions.<br><br>🚀 About Me<br><br>- 💻 Passionate about building software and applications.<br>- 🌐 Interested in web development and modern user interfaces.<br>- 🐍 Exploring Python and AI-powered applications.<br>- 💎 Developing desktop applications with C#.<br>- 📱 Interested in mobile app development.<br>- 🎨 Graphic designer with a passion for visual creativity.<br>- 📚 Always learning, building, and improving my skills.<br><br>🎯 My Mission<br><br>To transform ideas into practical, innovative, and user-friendly digital solutions while continuously growing as a developer and designer.<br>
+<div align="center">
 
+# 👨‍💻 Ayman Marsh
+### Software Developer · IT Student · Graphic Designer
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/المهندس ايمن مارش) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1FNP22bFPc/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/f_k_i__t?stkn=MWgxMHlyNzZ4b2dpcQ==) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/2WzbwoL50) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@فخامة مبرمج) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mbrrmjfkhamh@gmail.com) 
+**أحوّل الأفكار إلى حلول رقمية تجمع بين البرمجة والإبداع.**  
+*Turning ideas into practical digital experiences through code and creativity.*
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=programmer5505&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=programmer5505&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=programmer5505&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub](https://img.shields.io/badge/GitHub-programmer5505-181717?style=for-the-badge&logo=github)](https://github.com/programmer5505)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mbrrmjfkhamh@gmail.com)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=programmer5505&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=programmer5505&icon=3&color=2)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/AymanMarchSaif ) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AymanMarchSaif ) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/AymanMarchSaif ) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/AymanMarchSaif ) 
+## 🇸🇦 نبذة عني | About Me 🇬🇧
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+مرحباً! أنا **أيمن مارش**، مهتم بتطوير البرمجيات والتطبيقات ومواقع الويب، وأدرس تقنية المعلومات. أحب تحويل الأفكار إلى مشاريع عملية تجمع بين الكفاءة، وسهولة الاستخدام، والتصميم المميز. كما أهتم بالتصميم الجرافيكي وصناعة تجارب رقمية ذات هوية بصرية واضحة.
+
+Hi! I'm **Ayman Marsh**, an IT student, software developer, and graphic designer interested in building useful applications, modern websites, and creative digital experiences. I enjoy learning new technologies and turning ideas into practical projects.
+
+- 💻 **Software Development:** Python, C#, C++
+- 🌐 **Web Technologies:** HTML, CSS, JavaScript, PHP
+- 📱 **Mobile Development:** Exploring Dart and Flutter
+- 🗄️ **Databases:** MySQL, Microsoft SQL Server, SQLite
+- 🎨 **Creative Tools:** Adobe Photoshop, After Effects, Lightroom, InDesign
+- ☁️ **Technology Interests:** AI applications, cloud services, and data visualization
+
+> 🎯 **My mission | هدفي**  
+> Keep learning, build meaningful projects, and create digital solutions that combine technology with creativity.  
+> أواصل التعلّم وبناء مشاريع مفيدة تجمع بين قوة التقنية وجمال التصميم.
+
+---
+
+## 🧰 Tech Stack & Tools
+
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+</p>
+
+### Web, Data & Cloud
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+### Design & Creative Tools
+<p>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop"/>
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="Adobe After Effects"/>
+  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" alt="Adobe Lightroom"/>
+  <img src="https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" alt="Adobe InDesign"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=programmer5505&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Ayman's GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer5505&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+
+<img src="https://streak-stats.demolab.com/?user=programmer5505&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 🚀 Projects
+
+Explore my repositories for experiments, learning projects, and software development work.
+
+[![Explore Repositories](https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/programmer5505?tab=repositories)
+
+> **Tip:** Add links here to your most important projects, with a short description of what each project does and the technologies it uses.
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://www.facebook.com/share/1FNP22bFPc/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/f_k_i__t/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://pin.it/2WzbwoL50"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/></a>
+  <a href="mailto:mbrrmjfkhamh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+---
+
+## ☕ Support My Work
+
+If you enjoy my work, you can support me through the platforms below.
+
+<p>
+  <a href="https://buymeacoffee.com/AymanMarchSaif"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/></a>
+  <a href="https://paypal.me/AymanMarchSaif"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/></a>
+  <a href="https://patreon.com/AymanMarchSaif"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/></a>
+  <a href="https://ko-fi.com/AymanMarchSaif"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/></a>
+</p>
+
+<div align="center">
+
+### ✨ Code · Create · Innovate · Repeat ✨
+
+*Thanks for visiting my profile! | شكراً لزيارتك ملفي الشخصي*
+
+<img src="https://komarev.com/ghpvc/?username=programmer5505&style=flat-square&color=blue" alt="Profile views"/>
+
+</div>
